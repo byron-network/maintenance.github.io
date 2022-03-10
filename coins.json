@@ -1,0 +1,97 @@
+[
+  {
+    "id": "world-mobile-token",
+    "symbol": "wmt",
+    "name": "World Mobile Token"
+  },
+  {
+    "id": "ardana",
+    "symbol": "dana",
+    "name": "Ardana"
+  },
+  {
+    "id": "adax",
+    "symbol": "adax",
+    "name": "ADAX"
+  },
+  {
+    "id": "revuto",
+    "symbol": "revu",
+    "name": "Revuto"
+  },
+  {
+    "id": "kick-io",
+    "symbol": "kick",
+    "name": "KICK.IO"
+  },
+  {
+    "id": "doex",
+    "symbol": "doex",
+    "name": "DOEX"
+  },
+  {
+    "id": "yayswap",
+    "symbol": "yay",
+    "name": "YaySwap"
+  },
+  {
+    "id": "ravendex",
+    "symbol": "rave",
+    "name": "Ravendex"
+  },
+  {
+    "id": "meowswap",
+    "symbol": "meow",
+    "name": "MeowSwap"
+  },
+  {
+    "id": "meld",
+    "symbol": "meld",
+    "name": "MELD"
+  },
+  {
+    "id": "hosky",
+    "symbol": "hosky",
+    "name": "Hosky"
+  },
+  {
+    "id": "muesliswap-milk",
+    "symbol": "milk",
+    "name": "MuesliSwap MILK"
+  },
+  {
+    "id": "cneta",
+    "symbol": "cneta",
+    "name": "cNETA"
+  },
+  {
+    "id": "liqwid-finance",
+    "symbol": "lq",
+    "name": "Liqwid Finance"
+  },
+  {
+    "id": "genius-yield",
+    "symbol": "gens",
+    "name": "Genius Yield"
+  },
+  {
+    "id": "cardax",
+    "symbol": "cdx",
+    "name": "Cardax"
+  },
+  {
+    "id": "cardashift",
+    "symbol": "clap",
+    "name": "Cardashift"
+  },
+  {
+    "id": "cmeta",
+    "symbol": "CMETA",
+    "name": "cMETA"
+  },
+  {
+    "id": "activada",
+    "symbol": "ACADA",
+    "name": "ActivADA"
+  }
+]
