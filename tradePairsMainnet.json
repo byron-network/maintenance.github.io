@@ -1,0 +1,25 @@
+[ {
+    
+    "name": "HOSKY/ADA",
+    "assetA":{
+        "assetName":"HOSKY",
+        "policyId":"a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+
+ },
+ {
+    "name": "SUNDAE/ADA",
+    "assetA":{
+        "assetName":"SUNDAE",
+        "policyId":"9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ }
+]

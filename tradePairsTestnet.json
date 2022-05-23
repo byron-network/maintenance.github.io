@@ -1,0 +1,25 @@
+[ {
+    
+    "name": "BYR1/ADA",
+    "assetA":{
+        "assetName":"BYR1",
+        "policyId":""
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+
+ },
+ {
+    "name": "pierniczki/ADA",
+    "assetA":{
+        "assetName":"BYR1",
+        "policyId":""
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ }
+]
