@@ -34,5 +34,16 @@
         "assetName":"",
         "policyId":""
     }
+ },
+ {
+    "pairName": "coinA/ADA",
+    "assetA":{
+        "assetName":"coinA",
+        "policyId":"5ec1ea8d17f63c4ab03a93ad46f31c617fd57f6f28171d4117e63906"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
  }
 ]
